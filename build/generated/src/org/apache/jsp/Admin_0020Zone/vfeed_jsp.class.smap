@@ -1,0 +1,18 @@
+SMAP
+vfeed_jsp.java
+JSP
+*S JSP
+*F
++ 0 vfeed.jsp
+Admin Zone/vfeed.jsp
+*L
+1,38:45
+39,12:84
+50,2:96
+52,2:98,3
+54:104
+55:106,2
+56,2:108
+59,8:111
+66,8:119
+*E
